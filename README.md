@@ -35,5 +35,4 @@ This Express.js backend demonstrates protection against **Denial of Service (DoS
 
 ---
 
-## 📁 Project Structure
 
